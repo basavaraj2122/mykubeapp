@@ -7,9 +7,9 @@ Metadata:
 
 Spec:
   Replicas: 1
-  Selector: 
+  Selector:
     Matchlabel:
-      App: nginx 
+      App: nginx
   Template:
     Metadata:
        Label:
