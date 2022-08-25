@@ -6,7 +6,7 @@ Metadata:
     App: nginx
 
 Spec:
-  Replicas: 1
+  Replicas: 2
   Selector:
     Matchlabel:
       App: nginx
